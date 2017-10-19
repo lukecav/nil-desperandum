@@ -2,8 +2,8 @@
 /**
  * Gutenag
  *
- * Gutenag is a plugin that quiets the prompt to install the new post
- * editor in WordPress, Gutenberg.
+ * Gutenag is a plugin that quiets the prompt to install the new, still
+ * in beta post editor targeted for WordPress 5.0, Gutenberg.
  *
  * @link              https://github.com/boogah/gutenag/
  * @package           Gutenag
